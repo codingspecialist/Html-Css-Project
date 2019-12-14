@@ -1,0 +1,6 @@
+# airbnb
+grid-layout only css design
+![screenshot_20171221-151714](https://blogfiles.pstatic.net/MjAxOTAxMThfMjE3/MDAxNTQ3NzgxMDY4ODM2.lH1lippVBE82XlUv4la8TJZZHBNTq-jj30ndMxTzC34g.1PZrUzQ8_Tm37iYRRr-mFwVGhK227Q81l8gVj65KsSgg.PNG.codingspecialist/Screenshot_29.png)
+![screenshot_20171221-151714](https://blogfiles.pstatic.net/MjAxOTAxMThfNTEg/MDAxNTQ3NzgxMDY4ODE5.bC9CimQkBSeCGVs4hpZ_fJq0ZYNKKb1moUCi37cNByQg.a81Lc_vNysEfmNlI9d_YZJ8hXekeUwAm5yKMOZy_TdEg.PNG.codingspecialist/Screenshot_30.png)
+![screenshot_20171221-151714](https://blogfiles.pstatic.net/MjAxOTAxMThfMjAx/MDAxNTQ3NzgxMDY4ODMx.qCutresBPNKc5KvkFKzspIx8eXzDDpy9e7MbD3U-KF0g.16SuCc2Nhi55AiFYmgP8hJuJ1PlZuSVrs_X8DHpg6uUg.PNG.codingspecialist/Screenshot_31.png)
+![screenshot_20171221-151714](https://blogfiles.pstatic.net/MjAxOTAxMThfMjcw/MDAxNTQ3NzgxMDY4ODAz.Bw2u5HscvOU6lly7xurY0k4DcOHC7wy-MvuBT4FNF7Yg.3T8c1BRDwtMMlKF349kHoLjtcVISqDkkIjAnLErxx2Ag.PNG.codingspecialist/Screenshot_32.png)
